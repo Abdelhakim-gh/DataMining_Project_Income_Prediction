@@ -65,11 +65,12 @@ README.md
 
 ## Project Steps
 
-1. **Data Loading and Exploration**: Load and explore the dataset.
-2. **Data Cleaning**: Handle missingn outliers and clean the data.
-3. **Data Transformation**: Normalize and encode features.
-4. **Data Visualization**: Visualize the data distributions and relationships.
-5. **Handling Imbalanced Data**: Apply techniques like SMOTE to balance the data.
-6. **Feature Engineering**: Create and select features for modeling.
-7. **Model Training and Evaluation**: Train and evaluate various models.
-8. **Results Interpretation**: Interpret and visualize the results.
+- **Data Loading and Exploration**: Load and explore the dataset.
+- **Data Visualization**: Visualize the data distributions and relationships (EDA).
+- **Data Cleaning**: Handle missing values and outliers.
+- **Handling Imbalanced Data**: Apply techniques like SMOTE to balance the data.
+- **Data Transformation**: Normalize and encode features.
+- **Feature Engineering**: Create and select features for modeling.
+- **Model Training and Evaluation**: Train and evaluate various classification models and ANN.
+- **Fine Tuning**: Adjust model hyperparameters and select the best performing model.
+- **Results Interpretation**: Interpret and visualize the results.
